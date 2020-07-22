@@ -52,11 +52,6 @@ def print_ip_screen():
 ip=[]
 for i in range(6):
     ip.append(input("Please insert an IP address:"))
-serch_ip()
-delete_ip()
-add_new_ip()
-print_ip_screen()
-
-
+menu()
 
 
